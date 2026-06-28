@@ -1,0 +1,12 @@
+{
+  "name": "talenttrack-recruitment-landing-page",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "serve .",
+    "build": "echo Static project - no build step required"
+  },
+  "devDependencies": {
+    "serve": "latest"
+  }
+}
